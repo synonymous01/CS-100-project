@@ -1,0 +1,8 @@
+﻿  Battle1.cpp
+C:\Users\DELL\source\repos\Battle1\Battle1\Player.h(31,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+C:\Users\DELL\source\repos\Battle1\Battle1\Player.h(31,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL\source\repos\Battle1\Battle1\Game.cpp(174,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DELL\source\repos\Battle1\Battle1\Game.cpp(189,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Battle1.vcxproj -> C:\Users\DELL\source\repos\Battle1\Debug\Battle1.exe
