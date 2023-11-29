@@ -2,6 +2,7 @@
 Done in collaboration with my friend, Abdul Rafay.
 
 Inspired by Pokemon, this is a battle simulator with full GUI
+![image](https://github.com/synonymous01/CS-100-project/assets/40025239/ece3adfa-0a78-4301-8c5e-bda10a10c2d9)
 
 # Our game mechanics are more complex than what meets the eye.
 
